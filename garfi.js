@@ -1,0 +1,1 @@
+document.write("<H1>pagina prueba<h1>");
